@@ -1,4 +1,0 @@
-Apple,Red,23234,1
-Oreo,Coklat,12,2
-beef,daging sapi,300
-Teh Botol,Es teh manis, 13, 23
